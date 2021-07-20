@@ -21,3 +21,5 @@
 2.**您需要每学期修改 `classtoics.py` 文件的 line 33，时间为该学期的第一周的周一的日期，可以在重庆大学校历得到**
 
 3.**默认每节课上课前 5 分钟会有日历提醒**，不想要的话可以将 `classtoics.py` 文件的 line 93 到 line 99 注释掉
+
+4.基于 Python3，主要用到的库有 xlrd，xlwt，xlwings，icalendar
