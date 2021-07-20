@@ -11,7 +11,7 @@
 
 2.打开下载的课表，另存为 Excel 97-2003 工作簿 （后缀名为 .xls），修改文件名为 `classtable`
 
-3.下载本项目的两个py文件，将另存为得到的课表文件 `classtable.xls` 放在本项目同一目录（文件夹)中
+3.下载本项目的两个py文件，将另存为得到的课表文件 `classtable.xls` 放在本项目同一目录（文件夹）中
 
 4.先运行 `transform.py` ，再运行 `classtoics.py`
 
