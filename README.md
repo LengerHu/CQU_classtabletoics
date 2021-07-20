@@ -1,4 +1,4 @@
-# CQU_classtabletoics
+# 重庆大学课表 Excel 文件转 ics
 ## 简介
 此项目可以将重庆大学教务管理系统下载的课表 excel 转为 ics 导入到支持 ics 导入的日历中，导出的 ics 文件经测试可以在 iOS、MacOS、Windows、以及基于 Android 的 RealmeUI 的内置日历中使用
 ## 使用方法
