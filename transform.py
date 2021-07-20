@@ -114,6 +114,7 @@ while 1:
         break
 
 writebook.save('answer.xls')
+print('Then run classtoics.py')
 
 
 
