@@ -26,5 +26,7 @@
 
 4.基于 Python3，主要用到的库有 xlrd，xlwt，xlwings，icalendar
 
+5.**Python版本在3.8及以上**
+
 ## 关于
 本项目ics文件导出部分修改自 [classtable_to_isc](https://gitee.com/code_cloudlmy/classtable_to_isc) 项目，感谢原作者做出的贡献
