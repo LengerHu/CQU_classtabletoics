@@ -28,5 +28,7 @@
 
 5.**Python版本在3.8及以上**
 
+6.**课程名称里含有阿拉伯数字请删除**，比如`形势与政策6`要修改为`形势与政策` 
+
 ## 关于
 本项目ics文件导出部分修改自 [classtable_to_isc](https://gitee.com/code_cloudlmy/classtable_to_isc) 项目，感谢原作者做出的贡献
